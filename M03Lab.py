@@ -1,3 +1,11 @@
+#Alan Emerson
+#create-a-car
+#4/6/2025
+#creates a Vehicle super class just to make a Automobile class (part of the assignment) with a built in Display function to
+#show it in a more readable form. Includes a create_car function to create one easier (includes car01 as a test)
+
+
+
 
 #defualt calss
 class Vehicle:
